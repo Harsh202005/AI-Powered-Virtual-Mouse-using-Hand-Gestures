@@ -1,0 +1,20 @@
+3. Multi-Modal Stock Prediction Model (News + Prices + Social Media)
+Tech Stack Python (Transformers, LSTMs), Elasticsearch, MongoDB
+Exciting Features
+Combining textual (newssocial media), numerical (stock prices), and sentiment data
+Prediction using multi-modal deep learning models
+Explainability features for trade decisions
+Focus
+Multi-source data fusion
+Feature importance analysis
+
+
+4. Personalized AI Stock Advisor
+Tech Stack React Native, GPT-4 API, Firebase, Python
+Exciting Features
+AI-driven stock recommendations based on user's risk profile
+Natural language queries (e.g., “Should I invest in Tesla”)
+Customizable investment goals and strategy tracking
+Focus
+AI explainability
+User engagement optimization
